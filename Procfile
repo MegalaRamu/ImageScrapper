@@ -1,1 +1,1 @@
-web: gunicorn ImageScrapper:app
+web: gunicorn scraper:app
